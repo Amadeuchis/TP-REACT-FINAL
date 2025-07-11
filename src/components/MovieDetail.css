@@ -1,0 +1,13 @@
+.detail-container {
+  padding: 20px;
+}
+
+.detail-container img {
+  max-width: 300px;
+  display: block;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 20px;
+}
